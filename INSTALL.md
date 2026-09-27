@@ -20,11 +20,11 @@ Nothing else. No account. No login. No email. The app works fully offline after 
 
 ## Step 1 — Download the app
 
-Open this link on your phone:
+Tap this link on your phone:
 
-**https://github.com/lordsamm/wallet-guard-dl**
+**Download Wallet Guard**
 
-Tap **wallet-guard.apk** to download it. The file is about 5 MB.
+Your browser will start downloading `wallet-guard.apk` — about 5 MB.
 
 The download bar will appear in your notifications. Wait for it to finish.
 
